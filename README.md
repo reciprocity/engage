@@ -1,2 +1,1 @@
-# engage
-Example solutions and code for use with ZenGRC
+This repository contains  example solutions and code for use with ZenGRC.
